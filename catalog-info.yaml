@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: cordova-plugin-firebase
+  annotations:
+    github.com/project-slug: lampo/cordova-plugin-firebase
+spec:
+  type: general
+  lifecycle: production
